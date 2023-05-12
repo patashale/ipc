@@ -3,6 +3,7 @@ repo_url: https://github.com/patashale/ipc
 repo_name: patashale/ipc
 theme:
   name: material
+  logo: assets/logo.png
   language: en
   palette:
     - media: "(prefers-color-scheme: light)"
