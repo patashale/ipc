@@ -32,12 +32,12 @@ extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/company/patashale
-      name: Patashale on LinkedIn
+      name: Patashale™ on LinkedIn
     - icon: fontawesome/brands/github
       link: https://github.com/patashale
-      name: Patashale on GitHub
+      name: Patashale™ on GitHub
 
 nav:
   - Know before you start: index.md
 
-copyright: Copyright &copy; 2023 Patashale
+copyright: Copyright &copy; 2023 Patashale™
