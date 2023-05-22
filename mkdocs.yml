@@ -39,5 +39,12 @@ extra:
 
 nav:
   - Know before you start: index.md
+  - Chapter 1 - Introduction: 
+    - Preamble: en/preamble.md
+    - IPC 1: en/1.md
+    - IPC 2: en/2.md
+    - IPC 3: en/3.md
+    - IPC 4: en/4.md
+    - IPC 5: en/5.md
 
 copyright: <a property="dct:title" rel="cc:attributionURL" href="https://www.patashale.in/ipc">Indian Penal Code</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.github.com/patashale">Patashale™</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a>
