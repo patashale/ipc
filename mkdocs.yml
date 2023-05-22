@@ -36,6 +36,15 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/patashale
       name: Patashale™ on GitHub
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/patashale_in
+      name: Patashale™ on Twitter
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@patashale
+      name: Patashale™ on Mastodon Social
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@patashale
+      name: Patashale™ on Fosstodon
 
 nav:
   - Know before you start: index.md
@@ -47,4 +56,4 @@ nav:
     - IPC 4: en/4.md
     - IPC 5: en/5.md
 
-copyright: <a property="dct:title" rel="cc:attributionURL" href="https://www.patashale.in/ipc">Indian Penal Code</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.github.com/patashale">Patashale™</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a>
+copyright: <a property="dct:title" rel="cc:attributionURL" href="https://www.patashale.in/ipc">Indian Penal Code</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.github.com/patashale">Patashale™</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a> & <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">AGPL 3.0</a>
