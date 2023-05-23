@@ -12,8 +12,5 @@ Indian Penal Code is a well-defined rule book consisting of -
 - <div style="text-align: justify"> a unique code with a short title assigned to the defined criminal offence so that it can be easily referenced verbally, in writing, etc. without needing to go through the details of it. </div>
 
 #### What is IPC?
-<div style="text-align: justify">
 
 `IPC` is the short name for the Indian Penal Code.
-
-</div>
