@@ -1,8 +1,13 @@
 # ipc
 <div style="text-align: justify">
 
-![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-orange.svg) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-orange.svg)](https://www.gnu.org/licenses/agpl-3.0)
+![social-preview-ipc](https://github.com/patashale/ipc/assets/68323012/e9cc1460-3844-4f9d-b937-23dd20f9f2e7)
 
+## License used
+
+![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-orange.svg) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-orange.svg)](https://www.gnu.org/licenses/agpl-3.0)
+  
+  
 ## Clarification on license
 
 - The [repository](https://www.github.com/patashale/ipc) is considered as **software** or **source code** and it is licensed under a [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0)
