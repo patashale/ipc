@@ -46,6 +46,11 @@ extra:
       link: https://fosstodon.org/@patashale
       name: Patashale™ on Fosstodon
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Know before you start: index.md
   - Chapter 1 - Introduction: 
@@ -385,5 +390,118 @@ nav:
     - IPC 296: en/296.md
     - IPC 297: en/297.md
     - IPC 298: en/298.md
+  - Chapter 16 - Offences affecting the human body:
+    - Offences affecting life:
+      - IPC 299: en/299.md
+      - IPC 300: en/300.md
+      - IPC 301: en/301.md
+      - IPC 302: en/302.md
+      - IPC 303: en/303.md
+      - IPC 304: en/304.md
+      - IPC 304A: en/304A.md
+      - IPC 304A: en/304AA.md
+      - IPC 304B: en/304B.md
+      - IPC 305: en/305.md
+      - IPC 306: en/306.md
+      - IPC 307: en/307.md
+      - IPC 308: en/308.md
+      - IPC 309: en/309.md
+      - IPC 310: en/310.md
+      - IPC 311: en/311.md
+    - Offences affecting miscarriage, injuries to unborn children, exposure of infants and concealment of births:
+      - IPC 312: en/312.md
+      - IPC 313: en/313.md
+      - IPC 314: en/314.md
+      - IPC 315: en/315.md
+      - IPC 316: en/316.md
+      - IPC 317: en/317.md
+      - IPC 318: en/318.md
+    - Hurt:
+      - IPC 319: en/319.md
+      - IPC 320: en/320.md
+      - IPC 321: en/321.md
+      - IPC 322: en/322.md
+      - IPC 323: en/323.md
+      - IPC 324: en/324.md
+      - IPC 325: en/325.md
+      - IPC 326: en/326.md
+      - IPC 326A: en/326A.md
+      - IPC 326B: en/326B.md
+      - IPC 327: en/327.md
+      - IPC 328: en/328.md
+      - IPC 329: en/329.md
+      - IPC 330: en/330.md   
+      - IPC 331: en/331.md
+      - IPC 332: en/332.md
+      - IPC 333: en/333.md
+      - IPC 334: en/334.md
+      - IPC 335: en/335.md
+      - IPC 336: en/336.md
+      - IPC 337: en/337.md
+      - IPC 338: en/338.md
+    - Wrongful restraint and confinement:
+      - IPC 339: en/339.md
+      - IPC 340: en/340.md
+      - IPC 341: en/341.md
+      - IPC 342: en/342.md
+      - IPC 343: en/343.md
+      - IPC 344: en/344.md
+      - IPC 345: en/345.md
+      - IPC 346: en/346.md
+      - IPC 347: en/347.md
+      - IPC 348: en/348.md
+    - Criminal force and assault:
+      - IPC 349: en/349.md
+      - IPC 350: en/350.md
+      - IPC 351: en/351.md
+      - IPC 352: en/352.md
+      - IPC 353: en/353.md
+      - IPC 354: en/354.md
+      - IPC 354A: en/354A.md
+      - IPC 354B: en/354B.md
+      - IPC 354C: en/354C.md
+      - IPC 354D: en/354D.md
+      - IPC 354D: en/354E.md
+      - IPC 355: en/355.md
+      - IPC 356: en/356.md
+      - IPC 357: en/357.md
+      - IPC 358: en/358.md
+    - Kidnapping, abduction, slavery and forced labour:
+      - IPC 359: en/359.md
+      - IPC 360: en/360.md
+      - IPC 361: en/361.md
+      - IPC 362: en/362.md
+      - IPC 363: en/363.md
+      - IPC 363A: en/363A.md
+      - IPC 364: en/364.md
+      - IPC 364A: en/364A.md
+      - IPC 365: en/365.md
+      - IPC 366: en/366.md
+      - IPC 366A: en/366A.md
+      - IPC 366B: en/366B.md
+      - IPC 367: en/367.md
+      - IPC 368: en/368.md
+      - IPC 369: en/369.md
+      - IPC 370: en/370.md
+      - IPC 370A: en/370A.md
+      - IPC 371: en/371.md
+      - IPC 372: en/372.md
+      - IPC 373: en/373.md
+      - IPC 374: en/374.md
+    - Sexual offences:
+      - IPC 375: en/375.md
+      - IPC 376: en/376.md
+      - IPC 376A: en/376A.md
+      - IPC 376A: en/376AA.md
+      - IPC 376AB: en/376AB.md
+      - IPC 376B: en/376B.md
+      - IPC 376C: en/376C.md
+      - IPC 376D: en/376D.md
+      - IPC 376DA: en/376DA.md
+      - IPC 376DB: en/376DB.md
+      - IPC 376E: en/376E.md
+      - IPC 376F: en/376F.md
+    - Unnatural offences:
+      - IPC 377: en/377.md
 
 copyright: <a property="dct:title" rel="cc:attributionURL" href="https://www.patashale.in/ipc">Indian Penal Code</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.github.com/patashale">Patashale™</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0</a> & <a href="https://www.gnu.org/licenses/agpl-3.0" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">AGPL 3.0</a>
