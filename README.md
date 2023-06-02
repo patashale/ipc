@@ -3,6 +3,12 @@
 
 ![social-preview-ipc](https://github.com/patashale/ipc/assets/68323012/e9cc1460-3844-4f9d-b937-23dd20f9f2e7)
 
+  
+## Objective
+
+1. To educate people about Indian Penal Code at scale that is inline with objective of Patashale™
+2. To integrate with external platforms were people interact most or real world situations with intent to practice the law proactively or reactively
+  
 ## License used
 
 ![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-orange.svg) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-orange.svg)](https://www.gnu.org/licenses/agpl-3.0)
