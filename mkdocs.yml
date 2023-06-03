@@ -1,4 +1,6 @@
 site_name: Indian Penal Code
+site_author: Patashale™
+site_description: Educate yourself with Indian Penal Code and practice it in real world.
 repo_url: https://github.com/patashale/ipc
 repo_name: patashale/ipc
 theme:
