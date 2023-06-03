@@ -63,7 +63,8 @@ plugins:
   - minify:
       minify_html: true
   - social:
-      cards_layout_options.background_color: "#06038D"
+      cards_layout_options:
+        background_color: "#06038D"
 
 nav:
   - Know before you start: index.md
