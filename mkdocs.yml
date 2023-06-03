@@ -58,6 +58,8 @@ markdown_extensions:
   - pymdownx.superfences
 
 plugins:
+  - minify:
+      minify_html: true
   - social:
       cards_color:
         fill: "#06038D"
