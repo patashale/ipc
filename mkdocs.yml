@@ -61,6 +61,10 @@ plugins:
       cards_color:
         fill: "#06038D"
         text: "#FFFFFF"
+      cards_include:
+        - docs/en/*
+        - docs/index.md
+      cards_dir: assets/images/social
 
 nav:
   - Know before you start: index.md
