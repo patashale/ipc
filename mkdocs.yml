@@ -57,7 +57,10 @@ markdown_extensions:
   - pymdownx.superfences
 
 plugins:
-  - social
+  - social:
+      cards_color:
+        fill: "#06038D"
+        text: "#FFFFFF"
 
 nav:
   - Know before you start: index.md
