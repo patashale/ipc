@@ -28,7 +28,7 @@
 
 #### Social:
   - Website: https://www.patashale.in/ipc
-  - YouTube: https://www.youtube.com/indian-penal-code
+  - YouTube: https://www.youtube.com/@indian-penal-code
 
 > Note: We are only on above mentioned social platforms, and it is updated every minute.
 
