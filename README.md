@@ -1,4 +1,3 @@
-# ipc
 <div style="text-align: justify">
 
 ![social-preview-ipc](https://github.com/patashale/ipc/assets/68323012/e9cc1460-3844-4f9d-b937-23dd20f9f2e7)
