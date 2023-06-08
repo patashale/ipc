@@ -51,6 +51,9 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@patashale
       name: Patashale™ on YouTube
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@indian-penal-code
+      name: Indian Penal Code on YouTube      
 
 markdown_extensions:
   - admonition
