@@ -1,9 +1,5 @@
 ![social-preview-ipc](https://github.com/patashale/ipc/assets/68323012/e9cc1460-3844-4f9d-b937-23dd20f9f2e7)
 
-### 👋 Introduction
-
-
-
 ### 🎯 Objective
 
 1. To educate people about Indian Penal Code at scale that is inline with objective of Patashale™
@@ -22,7 +18,17 @@
 
 ### 🌈 Contribution guidelines
 
+As follows:
+  1. Fork the repo
+  2. Create the branch with meanignful name.
+  3. Make sure you have configured GPG key, and commits are set to use the gpg sign by default. We need signed commits.
+  4. Commit the changes and push them as per your preference.
+  5. Request for PR when its ready.
+  6. You will recive the PR comments or your change will accepted.
 
+If you have any questions, need help, hard to understand the instructions or need clarification please write us using the `Discussions` section in this repo or project.
+
+We will improve the guidelines based on frequent questions and concerns, strive to make it better as needed for the betterment of the project.
 
 ### 👩‍💻 Useful resources
 
