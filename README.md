@@ -2,15 +2,21 @@
 
 
 ### 👋 Introduction
+
 First of all we would like to thank you for considering to know about our `IPC` project. We hope the detailed information below will help you explain most of your questions.
 
-`IPC` project is created with intention to educate folks. While we're brainstorming and researching on how should we execute this, we decide to order the book directly from government we received this!
+`IPC` project is created with intention to educate folks. It started because of several events in real world where we observed many folks used the "as per the law" or "as per the constition" in their speech and misguiding people or causing fear. We felt we need educate and we started to work. While we're brainstorming and researching on how should we execute this, we decide to order the book directly from government and we received this!
 
-Yes, it was not up to date. So we decide search on internet if government has made available any digital version of it and we found the [website](https://www.indiacode.nic.in). 
+Package Delivered | Cover Page
+:-------------------------:|:-------------------------:
+![law-books-delivered](https://github.com/patashale/ipc/assets/68323012/bf15fd0b-24b4-4e96-9c39-c8bd955306ac) | ![law-books-coverpage](https://github.com/patashale/ipc/assets/68323012/46fe6474-e7a5-4e1f-b905-6fab3f238d9f)
 
-Although it was updated than what was available as physical books, it had its own challenges.
 
-To mention some:
+Yes, it was not up to date `IPC` as you can see in its cover page. That's ₹476 down the drain.
+
+So we decide search on internet if government has made available any digital version of it and we found the [website](https://www.indiacode.nic.in). 
+
+Although it was updated than what was available as physical books, it had its own challenges. To mention some:
  - it was not easy to search specific code
  - it was not few clicks away
  - it was wordy and not citizen friendly language
