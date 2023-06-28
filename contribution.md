@@ -10,9 +10,9 @@
     - All character must be lower case.
       
     ```
-    Example: If your full name is *Ravi Kumar* then it should be ravikumar@zohomail.in. 
-             If your name full name is *Birbal* then it should be birbal@zohomail.in. 
-             If your name is *Amar Akbar Antony* then it should be amarakbarantony@zohomail.in.
+    Example: If your full name is Ravi Kumar then it should be ravikumar@zohomail.in. 
+             If your name full name is Birbal then it should be birbal@zohomail.in. 
+             If your name is Amar Akbar Antony then it should be amarakbarantony@zohomail.in.
     ```
       
     - If email is not available then you can use underscore to replace the space between your name and also add prefix or suffix based on your title or solution if needed.
