@@ -3,7 +3,7 @@
 
 ### 👋 Introduction
 
-First of all we would like to thank you for considering to know about our `IPC` project. We hope the detailed information below will help you explain most of your questions.
+First of all we would like to thank you for considering to know about our `IPC` project. We hope the detailed information below will answer most of your questions.
 
 `IPC` project is created with intention to educate folks. It started because of several events in real world where we observed many folks used the "as per the law" or "as per the constition" in their speech and misguiding people or causing fear. We felt we need educate and we started to work. While we're brainstorming and researching on how should we execute this, we decide to order the book directly from government and we received this!
 
